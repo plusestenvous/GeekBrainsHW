@@ -1,0 +1,15 @@
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/bin/Debug/net7.0/test.hw
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/bin/Debug/net7.0/test.hw.deps.json
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/bin/Debug/net7.0/test.hw.runtimeconfig.json
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/bin/Debug/net7.0/test.hw.dll
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/bin/Debug/net7.0/test.hw.pdb
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.csproj.AssemblyReference.cache
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.AssemblyInfoInputs.cache
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.AssemblyInfo.cs
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.csproj.CoreCompileInputs.cache
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.dll
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/refint/test.hw.dll
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.pdb
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/test.hw.genruntimeconfig.cache
+/Users/plusestenvous/Desktop/GeekBrainsFiles/test.hw/obj/Debug/net7.0/ref/test.hw.dll
